@@ -1,2 +1,1 @@
-# IntroducaoAPI
-Repositório do curso de  Introdução as APIs com C#
+# Repositório do curso de  Introdução as APIs com C#
